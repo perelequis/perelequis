@@ -1,5 +1,4 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Péricles Rodrigo and my nickname is Perelequis!
 
 <h3>@perelequis &nbsp;&bull;&nbsp; <b>Péricles Rodrigo | Dev</b></h3>
 
